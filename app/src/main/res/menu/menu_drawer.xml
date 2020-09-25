@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Bảng Tin"
+        android:id="@+id/itemif1"
+        />
+    <item android:title="Bảng Tin"
+        android:id="@+id/itemif2"
+        />
+    <item android:title="Bảng Tin"
+        android:id="@+id/itemif3"
+        />
+    <item android:title="Bảng Tin"
+        android:id="@+id/itemif4"
+        />
+    <item android:title="Bảng Tin5"
+        android:id="@+id/itemif"
+        />
+</menu>

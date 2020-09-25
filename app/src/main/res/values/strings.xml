@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bachs Instagram</string>
+    <string-array name="user_photos">
+        <item>https://image.giaoducthoidai.vn/150/uploaded/thoank/2019-11-18/1/ngoc-trinh-qafr.jpg</item>
+        <item>https://2sao.vietnamnetjsc.vn/images/2019/05/25/17/58/tin-sao-viet-ngoc-trinh.jpg</item>
+        <item>https://vcdn-giaitri.vnecdn.net/2019/01/10/ngoc-trinh-1-1547136088_680x0.jpeg</item>
+        <item>https://media.tinmoi.vn/upload/nguyenhuong/2020/01/14/102006-ngoc-trinh-4.jpg</item>
+        <item>https://cdn.24h.com.vn/upload/3-2018/images/2018-09-28/Ngoc-Trinh-khien-quan-khach-ngo-ngang-voi-doanh-thu-khung-trong-ngay-dau-nhan-chuc-1-1538107507-853-width619height487.jpg</item>
+        <item>https://kenh14cdn.com/thumb_w/640/2020/3/1/befunky-collage-15829973553392057420790-crop-15829979290631345785567.jpg</item>
+        <item>https://image-us.eva.vn/upload/1-2020/images/2020-01-13/ngoc-trinh-khoe-noi-that-can-biet-thu-50-ty-dong-do-ban-trai-cu-tang-g8-1578900819-511-width660height990.jpg</item>
+        <item>https://baodansinh.mediacdn.vn/zoom/480_300/Images/2015/04/04/hai-huoc-chuyen-tin-don-chua-ro-ngoc-trinh-da-khai1428142841.jpg</item>
+        <item>https://2sao.vietnamnetjsc.vn/images/2020/01/12/16/23/ngoc-trinh-04.jpg</item>
+        <item>https://giadinh.mediacdn.vn/thumb_w/640/2019/10/30/ngoc-trinh-5-1572423107231301246873-crop-15724237122011649225014.jpg</item>
+        <item>https://kenh14cdn.com/2020/3/1/ngoctrinh89s-story-on-instagram-uploaded-1032020-939-gmt-1-15830601857241196067483.jpg</item>
+
+
+        <item>https://i-ngoisao.vnecdn.net/2019/06/09/1-ngoc-trinh-9-8531-1560048529.jpg</item>
+        <item>https://st.galaxypub.vn/staticFile/Subject/2016/10/20/4822028/dan-ong-lang-nhang-ngoc-trinh-roi-xa-ha-ho-vo-vaobr_20200517.jpg</item>
+        <item>https://2sao.vietnamnetjsc.vn/images/2020/03/23/14/28/ngoc-trinh-1.jpg</item>
+        <item>https://sohanews.sohacdn.com/2020/3/22/tr1-15848347918931288366306.jpg</item>
+        <item>https://vcdn-ngoisao.vnecdn.net/2020/03/13/NGOC-TRINH-CTP-3-8175-1584071405.jpg</item>
+        <item>https://2sao.vietnamnetjsc.vn/images/2020/03/21/22/07/ngoc-trinh-02.jpg</item>
+        <item>https://image.thanhnien.vn/768/uploaded/thanhlongn/2020_03_20/ngoctrinh_gujo.jpg</item>
+        <item>https://kenh14cdn.com/thumb_w/640/2020/3/10/125920-ngoc-trinh-tuot-mat-danh-hieu-dep-khong-ti-vet-vi-loat-khuyet-diem-nay6-15838436929521714781923-crop-1583843723906548836325.jpg</item>
+
+        <item>https://kenh14cdn.com/thumb_w/660/2020/3/13/ngoc-trinhctp11-1584066885421947552785.jpg</item>
+        <item>https://photo-1-baomoi.zadn.vn/w1000_r1/2019_03_06_251_29881209/fdd38a4374029d5cc413.jpg</item>
+    </string-array>
+</resources>

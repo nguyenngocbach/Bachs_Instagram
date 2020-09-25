@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:id="@+id/head_view_drawer"
+    android:background="@color/duong"
+    >
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/avater_ngoc_em"
+        android:layout_margin="7dp"
+        android:layout_gravity="center_vertical"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ngọc Bách"
+        android:textStyle="bold"
+        android:textColor="#ff0"
+        android:textSize="15dp"
+        android:layout_marginStart="18dp"
+        android:padding="10dp"
+        android:layout_gravity="center_vertical"
+        />
+</LinearLayout>
